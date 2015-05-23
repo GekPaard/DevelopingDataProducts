@@ -1,3 +1,13 @@
-# DevelopingDataProducts
-a repository especially created for this cousera course
-This repisitory will include a HTML file, a ui.r and a server.r
+<<<<<<< HEAD
+## 
+
+This is my solution for the assignment of the Coursera course Practical Machine Learning, march 2015.
+The html file is to be find in ML_project.html, the rmd file is to be find in ML_project.rmd. 
+
+The readable version of the html you can find here: http://gekPaard.github.io/index.html
+
+GekPaard
+=======
+# gekPaard.github.io
+courseraML
+>>>>>>> ca05dcb7ea39981f21d48cf0c4690d4ca8ed29e9
